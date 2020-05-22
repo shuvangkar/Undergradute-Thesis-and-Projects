@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "PFI test1", "PFI test1\PFI test1.cproj", "{233263F0-7900-4CD3-BA60-AB800B181119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{233263F0-7900-4CD3-BA60-AB800B181119}.Debug|AVR.ActiveCfg = Debug|AVR
+		{233263F0-7900-4CD3-BA60-AB800B181119}.Debug|AVR.Build.0 = Debug|AVR
+		{233263F0-7900-4CD3-BA60-AB800B181119}.Release|AVR.ActiveCfg = Release|AVR
+		{233263F0-7900-4CD3-BA60-AB800B181119}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
