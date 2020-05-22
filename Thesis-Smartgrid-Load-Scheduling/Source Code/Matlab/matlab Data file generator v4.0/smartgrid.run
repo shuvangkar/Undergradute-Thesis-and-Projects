@@ -1,0 +1,6 @@
+ #model 'smartgrid.mod';
+ #data  'smartgrid.dat';
+ #option solver MINOS;
+ solve;
+ display cost;
+ display E;
